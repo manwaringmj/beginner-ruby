@@ -2,8 +2,8 @@
 
 ###GROCERY LIST
 
-*lucky charms
-*captain crunch
-*cinnamon toast crunch
-*milk
-*coco puff
+* lucky charms
+* captain crunch
+* cinnamon toast crunch
+* milk
+* coco puff

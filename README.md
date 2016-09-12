@@ -1,20 +1,18 @@
-# beginner-ruby
+# Beginner-Ruby
 
-###GROCERY LIST
+### Variables
+Variables are things that can be called and used in place of numbers
+```
+A = 10
+```
+##### Assign
 
-* lucky charms
-* captain crunch
-* cinnamon toast crunch
-* milk
-* coco puff
 
-###code
+##### Use
+##### Types
 
-```
-$ git add .
-```
-```
-def my_method(a)
-  a-10
-end
-```
+### Conditional
+##### Expressions
+##### Branching
+
+### Methods
